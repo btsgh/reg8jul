@@ -20,6 +20,22 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "selected",
+      "isDefault": false
+    },
+    {
+      "id": "all",
+      "isDefault": false
+    },
+    {
+      "id": "Setupreadwrite",
+      "isDefault": false
+    },
+    {
+      "id": "read",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
